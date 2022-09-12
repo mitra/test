@@ -1,0 +1,3 @@
+Test what happens if PR is closed but not merged.
+
+Testing if a closed PR can be used to shelve changes.
